@@ -93,7 +93,7 @@ button:active{
         margin: 13px;
     }
     #perfum{
-        margin-top: 20px;
+        /* margin-top: 20px; */
         border-radius: 20px 20px 0px 0px;
         width: 101%;
         height: 36%;
